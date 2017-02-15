@@ -35,6 +35,7 @@ namespace CalculatorPortable
         {
             mytest(my1);
             mytest(my2);
+            mytest(my3);
         }
 
         private string my1()
@@ -45,6 +46,11 @@ namespace CalculatorPortable
         private string my2()
         {
             return "222";
+        }
+        
+        private string my3()
+        {
+            return "suka bliat'";
         }
 
         private void mytest(Dele some)

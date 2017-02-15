@@ -11,3 +11,16 @@ E:\Komarov\C#\CalculatorPortable\CalculatorPortable\bin\Debug\Xamarin.Forms.Xaml
 E:\Komarov\C#\CalculatorPortable\CalculatorPortable\obj\Debug\CalculatorPortable.csprojResolveAssemblyReference.cache
 E:\Komarov\C#\CalculatorPortable\CalculatorPortable\obj\Debug\CalculatorPortable.dll
 E:\Komarov\C#\CalculatorPortable\CalculatorPortable\obj\Debug\CalculatorPortable.pdb
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\bin\Debug\CalculatorPortable.dll
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\bin\Debug\CalculatorPortable.pdb
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\bin\Debug\Xamarin.Forms.Core.dll
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\bin\Debug\Xamarin.Forms.Platform.dll
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\bin\Debug\Xamarin.Forms.Core.pdb
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\bin\Debug\Xamarin.Forms.Core.xml
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\obj\Debug\CalculatorPortable.csprojResolveAssemblyReference.cache
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\obj\Debug\CalculatorPortable.dll
+E:\Komarov\C#\GitHub\MyRepo\CalculatorPortable\CalculatorPortable\obj\Debug\CalculatorPortable.pdb
