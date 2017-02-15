@@ -28,7 +28,7 @@ namespace CalculatorPortable
             AddOperatorsListeners();
             _mainText = resultTxt;
             _secondText = secondTxt;
-            tedt();
+            //tedt();
             
     }
         private void tedt()
